@@ -1,0 +1,100 @@
+Attalea speciosa Mart. ex Spreng. (Babaçu)
+1. Visão Geral
+Attalea speciosa, conhecida como babaçu, é uma palmeira de grande porte da família Arecaceae, nativa das regiões norte e nordeste do Brasil. Destaca-se pelo papel socioeconômico junto às comunidades de quebradeiras de coco e pela versatilidade de usos que vão desde a alimentação até aplicações industriais e medicinais.
+
+2. Taxonomia e Distribuição
+Família: Arecaceae
+
+Gênero: Attalea
+
+Espécie: speciosa Mart. ex Spreng.
+
+O babaçu ocupa áreas dos biomas Amazônia, Cerrado e Caatinga, principalmente nos estados do Maranhão, Pará, Tocantins e Ceará. As populações tradicionais referem-se a ela como a “mãe” que sustenta milhares de famílias na região conhecida como Mata dos Cocais.
+
+3. Morfologia e Ecologia
+Porte: árvore de 15–20 m de altura, com tronco liso e ereto.
+
+Folhagem: folhas compostas, até 4 m de comprimento, com 60–100 foliolos lanceolados.
+
+Flores: brancas, perfumadas, em inflorescências paniculadas no fim da estação chuvosa.
+
+Frutos: drupas ovais de 1–2 cm, amadurecem de junho a dezembro, agrupados em cachos que podem atingir 500 frutos cada um.
+
+O babaçu favorece solos bem drenados e tolera longos períodos de seca, contribuindo para o controle de erosão em áreas de transição entre biomas.
+
+4. Composição Química
+As partes mais exploradas são a amêndoa (endosperma) e o mesocarpo:
+
+Endosperma: óleo fixo (30–50 %) rico em ácidos graxos (laurico, mirístico, oleico).
+
+Mesocarpo: fibras e polissacarídeos, utilizadas para produção de farinhas e ração animal.
+
+Componentes menores: compostos fenólicos e tocoferóis com atividade antioxidante.
+
+A variação na composição depende da maturação dos frutos e das práticas de extração.
+
+5. Propriedades Medicinais e Terapêuticas
+Estudos compilados em revisão sistemática apontam que extratos e óleos de babaçu apresentam:
+
+Atividade anti-inflamatória e cicatrizante, estimulando a regeneração de tecidos.
+
+Propriedade antimicrobiana contra bactérias causadoras de infecções de pele.
+
+Ação antioxidante, reduzindo radicais livres em modelos celulares.
+
+Essas evidências reforçam o potencial terapêutico, mas ressaltam a necessidade de ensaios clínicos controlados para comprovar dosagens e segurança.
+
+6. Usos Tradicionais e Folclóricos
+Pesquisas entre os Mebêngôkre-Kayapó documentaram cinco categorias de uso do babaçu:
+
+Alimentação: óleo e farinhas extraídas das amêndoas e mesocarpo.
+
+Cosmético: óleo para hidratação de pele e cabelo em rituais de beleza.
+
+Doméstico: combustível e material para confecção de artesanato.
+
+Construção: fibras do mesocarpo em coberturas rústicas.
+
+Ritual: óleo utilizado em cerimônias de iniciação e purificação.
+
+O alto valor de diversidade de usos (ID = 22,89) evidencia a dependência cultural e econômica da comunidade Kayapó no Pará.
+
+7. Toxicidade e Segurança
+Em geral, o óleo de babaçu é bem tolerado por via tópica e oral em doses tradicionais. Doses muito elevadas podem causar desconforto gastrointestinal e efeito laxativo moderado. Gestantes devem consultar profissional de saúde antes do uso terapêutico.
+
+8. Cultivo e Colheita
+Solo: profundo, fértil, pH 5,5–7,5, bem drenado.
+
+Propagação: sementes frescas, germinação em viveiro, transplante após 6–12 meses.
+
+Produção: inicia em torno de 10 anos; pico de frutificação entre 15 e 25 anos, com 3–6 cachos por safra.
+
+Colheita: coleta manual de frutos maduros de junho a dezembro; secagem ao sol ou em estufa até umidade < 10 %.
+
+9. Curiosidades
+A extração do óleo de babaçu sustenta o trabalho das “quebradeiras de coco”, movimento social reconhecido no Maranhão.
+
+O resíduo sólido do endocarpo ( torta de babaçu) é fonte de bioenergia e fertilizante orgânico.
+
+Em 2020, o babaçu foi incluído na Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS), ampliando pesquisas sobre seu uso terapêutico.
+
+10. Pesquisas Científicas Recentes
+Revisão sistemática (2010–2020) consolidou 14 estudos sobre propriedades anti-inflamatórias, antimicrobianas e cicatrizantes, reforçando o potencial farmacológico do óleo e extratos de babaçu.
+
+Estudos etnobotânicos avançam na caracterização genética de A. speciosa para programas de melhoramento e conservação.
+
+Pesquisas em curso avaliam formulações cosméticas com nanoemulsões de óleo de babaçu para liberação controlada de ativos.
+
+11. Aplicações ao Redor do Mundo
+Região	Uso Principal
+Brasil (Norte/Nordeste)	Alimentação, cosméticos, energia doméstica
+Comunidades Indígenas	Rituais tradicionais e remédios populares
+Europa	Ingrediente em cosméticos naturais e nutracêuticos
+América Latina	Óleo como aditivo alimentar e suplemento energético
+África Subsaariana	Banco de germoplasma para programas de reflorestamento
+Referências
+Silva RR, Silva ECV, Menezes JB, et al. Conhecimento e usos do babaçu (Attalea speciosa Mart. ex Spreng.) entre os Mebêngôkre-Kayapó da Terra Indígena Las Casas, Pará, Brasil. Acta Bot. Bras. 2012;26(2):233–240. doi:10.1590/S0102-33062012000200007
+
+Santos JAA. Babaçu (Attalea speciosa Mart. ex Spreng.): Uma Revisão Sistemática de Usos e Propriedades Terapêuticas. Mundo Amazônico. 2025;16(1):32–51. doi:10.15446/ma.v16n1.103105
+
+UNITINS. Nativas Digitais – Babaçu (Attalea speciosa). Palmas; 2025. Disponível em: https://www.unitins.br/nativasdigitais/especie/babacu

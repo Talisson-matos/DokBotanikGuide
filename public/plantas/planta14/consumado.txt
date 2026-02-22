@@ -1,0 +1,118 @@
+Stryphnodendron adstringens (Mart.) Coville (Barbatimão)
+1. Visão Geral
+Stryphnodendron adstringens, popularmente conhecido como barbatimão, é uma árvore de médio porte típica do bioma Cerrado brasileiro, valorizada pela casca rica em taninos condensados e amplamente empregada em fitoterapia popular como cicatrizante e antimicrobiano. Sua utilização remonta às práticas tradicionais das populações rurais e indígenas do Brasil central, onde a planta é frequentemente coletada em estado silvestre para o preparo de remédios caseiros, pomadas e compressas.
+
+2. Taxonomia e Distribuição
+Reino: Plantae
+
+Filo: Tracheophyta
+
+Classe: Magnoliopsida
+
+Ordem: Fabales
+
+Família: Fabaceae (subfamília Mimosoideae, anteriormente Mimosaceae)
+
+Gênero: Stryphnodendron
+
+Espécie: S. adstringens
+
+S. adstringens ocorre de forma natural em cerrado denso e cerradão, principalmente nos estados de Goiás, Minas Gerais, Mato Grosso e Tocantins, adaptando-se a solos bem drenados, ácidos e de baixa fertilidade mineral.
+
+3. Morfologia e Ecologia
+Porte: arvoreta de 3–10 m de altura, tronco retilíneo com casca grossa e escamosa.
+
+Folhas: bipinadas, com 6–12 pares de pinas e 10–20 pares de folíolos elípticos de 1–2 cm.
+
+Flores: pequenas, creme-esverdeadas, reunidas em panículas axilares durante a estação chuvosa.
+
+Frutos: vagens lineares deiscência tardia, contendo 2–4 sementes prismáticas.
+
+Desenvolve-se em ambientes de alta incidência solar e tolera longos períodos de seca, contribuindo para a regeneração de áreas degradadas pelo seu sistema radicular profundo e capacidade de fixação de nitrogênio no solo.
+
+4. Composição Química
+Os principais grupos de metabólitos identificados na casca e nas folhas incluem:
+
+Taninos condensados (proantocianidinas) em teores de até 40 % do extrato seco
+
+Flavonoides como quercetina e catequina
+
+Compostos fenólicos diversos (ácido gálico, ácido elágico)
+
+Compostos terpenóides em menor proporção
+
+A alta concentração de taninos explica fortemente a ação adstringente observada em aplicações tópicas e sistema digestivo2.
+
+5. Propriedades Medicinais e Terapêuticas
+Estudos pré-clínicos e revisões sistemáticas indicam que S. adstringens apresenta:
+
+Ação cicatrizante, estimulando proliferação de fibroblastos e formação de colágeno
+
+Atividade antibacteriana contra Staphylococcus aureus, Escherichia coli e Salmonella spp.
+
+Efeito antifúngico comprovado contra Candida albicans
+
+Ação antiparasitária contra Trypanosoma cruzi e Leishmania amazonensis
+
+Propriedades antinociceptivas e anti-inflamatórias em modelos animais
+
+Potencial antiveneno, usado como coadjuvante no tratamento de picadas de serpentes botrópicas2.
+
+6. Usos Tradicionais e Folclóricos
+Na medicina popular brasileira, o barbatimão é utilizado sob diversas formas:
+
+Decocção da casca para compressas em feridas, úlceras e queimaduras
+
+Suspensão líquida para gargarejos em aftas e gengivites
+
+Chá concentrado para diarreias e inflamações gastrointestinais
+
+Cataplasma de pasta de casca para contusões e dores articulares
+
+Adjuvante em soroterapia de picadas de cobra, auxiliando na neutralização de toxinas locais3.
+
+7. Toxicidade e Segurança
+Revisões indicam baixo potencial genotóxico e ausência de efeitos adversos graves em doses tradicionais. Entretanto:
+
+Altas doses orais podem provocar desconforto gastrointestinal e constipação
+
+Uso tópico intenso sem diluição pode causar irritação cutânea em pele sensível
+
+Contraindicado em gestantes por falta de estudos toxicológicos específicos e em pessoas com obstrução intestinal pré-existente.
+
+8. Cultivo e Colheita
+Solo: bem drenado, franco-arenoso, pH 5,5–6,5
+
+Clima: tropical sazonal, tolera seca e calor intenso
+
+Propagação: sementes germinam em 30–60 dias após estratificação; mudas transplantadas após 6 meses
+
+Manejo: poda de formação e controle de espécies invasoras
+
+Colheita: retirada da casca dos ramos de 2–3 anos durante a estação seca; secagem em sombra e ventilação natural até umidade < 12 %.
+
+9. Curiosidades
+O nome “barbatimão” deriva da expressão tupi “barba-tima” (“casca que apita”), aludindo ao som oco dos troncos e à sensação compacta deixada pela forte ação adstringente.
+
+Comunidades rurais do Mato Grosso do Sul empregavam o pó da casca como repelente natural de mosquitos e pulgas.
+
+Estudos etnobotânicos de 2012 destacaram o uso do extrato em rituais de limpeza espiritual por povos indígenas do Parque Nacional da Chapada dos Veadeiros, valorizando seu efeito purificador.
+
+10. Pesquisas Científicas Recentes
+Revisão sistemática de 2020 sintetizou 75 artigos sobre usos fitoterápicos, destacando a predominância de estudos in vitro e a carência de ensaios clínicos controlados.
+
+Em 2021, artigos demonstraram eficácia de formulações gelificadas de extrato padronizado em acelerar a cicatrização de úlceras cutâneas em modelos animais.
+
+Pesquisas atuais investigam nanoencapsulação de proantocianidinas para liberação prolongada e maior penetração dérmica.
+
+11. Aplicações ao Redor do Mundo
+Região	Uso Principal
+Cerrado brasileiro	Fitoterapia popular: cicatrização e antisséptico
+Comunidades indígenas e quilombolas	Rituais de purificação e repelente de insetos
+Laboratórios de pesquisa no Brasil	Desenvolvimento de pomadas e cremes cicatrizantes
+Referências
+Costa LLL, Telles MPC, Rodrigues FM, Saddi VA. Utilização do barbatimão (Stryphnodendron adstringens) como planta medicinal: uma revisão sistemática. Dissertação (Mestrado). PUC-Goiás; 2018.
+
+Ferreira ÉC. As propriedades medicinais e bioquímicas da planta Stryphnodendron adstringens “Barbatimão”. Perspectivas Online: Biológicas & Saúde. 2013;3(11):1–12. DOI:10.25242/886831120139
+
+Pereira C, Moreno CS, Carvalho C. Usos farmacológicos do Stryphnodendron adstringens (Mar.) – Barbatimão. Revista Panorâmica. 2016;5(9):45–56.

@@ -1,0 +1,62 @@
+Compilado sobre Aconitum napellus (Acônito)
+1. Introdução e Nome Científico
+Aconitum napellus L. é uma planta herbácea perene da família Ranunculaceae, famosa pelo apelido acônito ou capuz-de-frade. Historicamente, seus tubérculos eram usados como veneno em flechas e dardos, e atualmente encontram aplicação restrita em formulações homeopáticas devido à sua elevada toxicidade.
+
+2. Taxonomia e Nomes Populares
+Domínio: Eukaryota
+
+Reino: Plantae
+
+Filo: Magnoliophyta
+
+Classe: Magnoliopsida
+
+Ordem: Ranunculales
+
+Família: Ranunculaceae
+
+Gênero: Aconitum
+
+Espécie: A. napellus L.
+
+Sinônimos botânicos incluem Aconitum vulgare DC. e Aconitum variabile Hayne. Nomes populares destacam-se capacete-de-júpiter, capuz-de-frade, napelo e mata-lobos, além de monkshood e wolfsbane em inglês e casque de Jupiter em francês.
+
+3. Descrição Botânica
+Planta rizomatosa que atinge até 1,5 m de altura, com caule ereto e folhas palmadas divididas em 5 a 7 lóbulos profundos. As flores são campanuliformes, geralmente azul-púrpura, reunidas em inflorescências racemosas. Os tubérculos subterrâneos concentram os alcaloides tóxicos.
+
+4. Origem e Distribuição Geográfica
+Originário de regiões montanhosas da Europa e Ásia Ocidental, como Alpes, Pirenéus e Cáucaso, A. napellus ocorre em altitude entre 1 000 e 2 500 m. Cultivado em jardins de clima temperado, não possui ocorrência natural no Brasil.
+
+5. Habitat e Cultivo
+Prospera em solos úmidos, férteis e bem drenados, sob sombra parcial ou pleno sol ameno, sendo comum em clareiras de florestas montanas e prados alpinos. Devido à toxicidade, seu cultivo exige manuseio com luvas e cuidados para evitar ingestão acidental.
+
+6. Propagação
+Multiplica-se por sementes, que necessitam de estratificação fria (2–4 °C) por 2–3 meses, ou por divisão de rizomas no outono ou primavera, mantendo a pureza genética da planta mãe.
+
+7. Composição Química
+A proporção de alcaloides varia de 0,3 % a 1,2 % do peso seco, destacando-se a aconitina (≈ 30 %), mesaconitina, neopelina, hipaconitina e napelonina. Também contém ácidos orgânicos (aconítico, cítrico e tartárico) e colina, responsáveis pela ação farmacológica e toxicidade3.
+
+8. Propriedades Medicinais e Terapêuticas
+Em homeopatia, após diluições extremas, é usado em estados febris delirantes, ansiedade, síndromes de pânico, asma, bronquite, gota, artrite reumatoide, neuralgias e dores reumáticas, explorando suas propriedades analgésicas, anti-inflamatórias, antipiréticas, cardiotônicas, sedativas e sudoríferas4.
+
+9. Pesquisa Científica
+Estudos recentes investigaram o potencial neuroprotetor de extratos de tubérculos secos de A. napellus em modelos celulares e animais, sugerindo modulação de vias antioxidantes e antiapoptóticas. Revisões toxicológicas destacam a cardiotoxicidade dos alcaloides diterpênicos, que induzem arritmias por ativação prolongada de canais de sódio tipo I, expondo a risco de parada cardiorrespiratória6.
+
+10. Toxicidade e Contraindicações
+A dose letal de aconitina é de 1 a 3 mg (equivalente a 2–4 g de tubérculos frescos). A intoxicação inicia-se com parestesia dos lábios e língua, seguida por náuseas, vômitos, diarreia e sialorreia. Em fase avançada, ocorre hipotermia, paralisia dos músculos respiratórios e bloqueio dos centros nervosos cardiorrespiratórios, levando à morte por asfixia em poucas horas. Contraindica-se uso interno sem supervisão médica; gestantes, lactantes, crianças e portadores de doenças cardíacas devem evitá-lo.
+
+11. Curiosidades e Aspectos Culturais
+Na antiguidade, povos célticos e nórdicos utilizavam o acônito para envenenar flechas em rituais de caça e guerra. Seu formato de flor lembrando capuz de monge alimentou lendas de bruxaria e superstições medievais. Apesar dos riscos, cultiva-se em jardins alpinos pela beleza das flores azuis.
+
+12. Referências
+Plantamed. ACÔNITO, Aconitum napellus. Disponível em: https://www.plantamed.com.br/plantaservas/especies/Aconitum_napellus.htm
+
+Rebouças KLS et al. ANÁLISE DOS BENEFÍCIOS E RISCOS DO GÊNERO ACONITUM SPP. Disponível em: https://ime.events/conasus2023/pdf/25374
+
+Shoaib A et al. Neuroprotective Effects of Dried Tubers of Aconitum napellus. Plants. 2020;11(1):80. DOI:10.3390/plants11010080
+
+TuaSaúde. Aconito (Aconitum napellus): para que serve e como usar. Atualizado em jul. 2023. Disponível em: https://www.tuasaude.com/aconito/
+
+Coreus. O Que é: Aconitum Napellus - Entenda Suas Propriedades. Disponível em: https://coreus.com.br/glossario/o-que-e-aconitum-napellus/
+
+MundoBoaForma. Acônito (Aconitum napellus): benefícios, como usar e efeitos colaterais. Atualizado em 11/01/2023. Disponível em: https://www.mundoboaforma.com.br/aconito-aconitum-napellus-beneficios-como-usar-e-efeitos-colaterais/
